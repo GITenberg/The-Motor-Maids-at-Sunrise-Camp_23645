@@ -1,0 +1,25 @@
+_repo: The-Motor-Maids-at-Sunrise-Camp_23645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stokes, Katherine
+    gutenberg_agent_id: '5049'
+    url: http://www.gutenberg.org/2009/agents/5049
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camps -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Motor Maids at Sunrise Camp
+url: http://www.gutenberg.org/ebooks/23645
